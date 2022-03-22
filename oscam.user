@@ -1,0 +1,32 @@
+# oscam.user generated automatically by Streamboard OSCAM 1.20_svn SVN r11574-798
+# Read more: http://www.streamboard.tv/svn/oscam/trunk/Distribution/doc/txt/oscam.user.txt
+
+
+
+
+[account]
+user                          = GHJHG 
+pwd                           = tgGHJms 
+group                         = 1,2,3,4,5
+
+[account]
+user                          = 3
+pwd                           = 3
+group                         = 1,2,3,4,5
+
+[account]
+user                          = EXCJGHJGHANGE
+pwd                           = HGJGHG
+uniq                          = 1
+group                         = 1
+
+[account]
+user                          = HGHGG
+pwd                           = GGF1
+uniq                          = 1
+expdate                       = 2020-05-20
+group                         = 1,2,3,4,5
+
+
+
+

@@ -1,0 +1,33 @@
+[reader]
+label                         = CCcam-1
+protocol                      = cccam
+device                        = free.speeds.tv,52553
+user                          = 8s3hf
+password                      = topservercccam
+inactivitytimeout             = 30
+reconnecttimeout              = 12
+disablecrccws_only_for        = 1811:000000,003311;1819:00006A,00006D;0500:042820,042800,030B00;098C:000000;09C4:000000;1708:000000
+group                         = 1
+dropbadcws                    = 1
+disablecrccws                 = 1
+cccversion                    = 2.0.11
+cccwantemu                    = 1
+ccckeepalive                  = 1
+audisabled                    = 1
+
+
+
+[reader]
+label                         = tgms
+protocol                      = newcamd
+device                        = host,port 
+key                           = 0102030405060708091011121314
+user                          = usr 
+password                      = pass
+inactivitytimeout             = 30
+disablecrccws_only_for        = 1708:000000
+group                         = 1
+cccversion                    = 2.3.0
+ccckeepalive                  = 1
+audisabled                    = 1
+
